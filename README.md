@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tabish-00
+- 👋 Hi, I’m M.Tabish
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Python or Generating AI
 - 💞️ I’m looking to collaborate on ...
